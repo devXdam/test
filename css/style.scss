@@ -1,0 +1,28 @@
+:root {
+    --primary-color: rgb(65, 212, 229);
+    --second-color: rgb(85, 207, 225);
+    --third-color: rgba(20, 147, 190, 0.903);
+    --fourth-color: rgb(228, 239, 238);
+    --fifth-color: rgb(255, 255, 255);
+    --linear-gradient1: -moz-linear-gradient(top, #84dbe9 0%, hsl(185, 77%, 21%) 50%, #4db6ce 100%);
+    --linear-gradient2: -webkit-linear-gradient(top, #66B288 0%, #5AB7C0 50%, #2fbcef 100%);
+    --linear-gradient3: linear-gradient(to bottom, #66B288 0%, #5AB7C0 50%, #2e84bd 100%);
+
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$bodyColor: var(--fifth-color);
+$textColor: var(--third-color);
+$radian1: var(--linear-gradient1);
+$radian2: var(--linear-gradient2);
+$radian3: var(--linear-gradient3);
+$textBtnColor: var(--fourth-color);
+$borderColor: var(--second-color);
+$sectionsColor: var(--third-color);
