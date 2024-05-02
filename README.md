@@ -1,4 +1,4 @@
-# Test Html5,Css y javascript
+# Test HTML5, CSS3 y Javascript
 
 Este es un proyecto simple que evita tener que crear archivos y estilos desde cero. La plantilla cuenta con una estructura del directorio muy basica pero intuitiva, los archivos de javascript y css ya estan vinculados, esto permite ir directo al grano y comenzar a testear cosas puntuales de cada tecnologia de manera rapida.
 
