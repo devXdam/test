@@ -6,6 +6,6 @@ Este es un proyecto simple que evita tener que crear archivos y estilos desde ce
 -Descargar o clonar el proyecto
 
 ## Uso
-- Para testar `Javascript`, debe ir a la carpeta `src` y en el archivo `main.js` escribir lo que necesite. Opcionalmente puede crear sus propios `modulos` e importarlos en el archivo `main.js`, automaticamente se mostrará en el archivo `app.js` que está vinculado al `index.html`
+- Para testar `Javascript`, debe ir a la carpeta `src` y en el archivo `main.js` escribir lo que necesite. Opcionalmente puede crear sus propios `modulos` e importarlos en el archivo `main.js` (automaticamente se mostrará en el archivo `app.js` que está vinculado al `index.html`).
 - Para testetar estilos de css, ir a la carpeta `css`, y en el archivo `style.scss` de `sass` incluir todos los estilos que desea probar.
 - Para testear `HTML`, simplemente debe crear las etiquetas que neceseite en `index.html`. 
